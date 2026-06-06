@@ -1,5 +1,7 @@
 # 🧬 자동 논문 작성기 (MSCSL Paper Writer)
 
+**🔗 웹에서 바로 사용:** https://sun-code2026.github.io/mscsl-paper-writer/
+
 연구 내용·가설·데이터를 입력하면 **Anthropic Claude** 로 논문 초안을 작성하고,
 **PubMed 실문헌** 으로 근거를 보강한 뒤, 동료 심사(Reviewer #2) 리뷰까지 수행하는
 React / Vite 기반 웹 앱입니다.
