@@ -1,0 +1,23 @@
+{
+  "name": "mscsl-paper-writer",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "연구 결과를 입력하면 Claude로 논문 초안을 작성하고 PubMed 실문헌으로 근거를 보강한 뒤 리뷰까지 수행하는 자동 논문 작성기",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11"
+  }
+}
